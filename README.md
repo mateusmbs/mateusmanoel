@@ -1,7 +1,9 @@
 ## Olá! Eu sou o Mateus Manoel
 
 -  💼 Hoje trabalho com Servi Desk
--  📚  Estudando Typescrip
+-  📚  atualmente estudando Desenvolvimento Web na Escola Awari 💙
+
+
 
 
  <div>
